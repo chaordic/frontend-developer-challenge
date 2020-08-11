@@ -12,7 +12,7 @@ Preparamos um teste que abordará seus conhecimentos em **HTML**, **CSS** e **Ja
 
 O desafio consiste no desenvolvimento do *layout* de uma *landing page* com uma grade de produtos e um formulário de *newsletter*. Seu principal objetivo é transformar este *layout* em uma página funcional.
 
-**Link do layout**: https://xd.adobe.com/spec/aa1c5781-ecac-46c9-7032-b66139998404-dc2d/
+**Link do layout**: https://xd.adobe.com/spec/4025e242-a495-4594-71d2-5fd89d774b57-3614
 
 **Endpoint da API**: https://frontend-intern-challenge-api.iurykrieger.now.sh/products?page=1
 
